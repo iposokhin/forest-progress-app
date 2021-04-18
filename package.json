@@ -1,0 +1,16 @@
+{
+  "name": "progress",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.1.5"
+  },
+  "dependencies": {
+    "effector": "^21.8.11",
+    "forest": "^0.19.6"
+  }
+}
